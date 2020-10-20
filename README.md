@@ -1,4 +1,3 @@
-# Continual Learning Project
 
 ## Overview
 The main resource included is an ipython notebook. The notebook includes code to download and manipulate the Core50 dataset for the purposes of Continual Learning. The dataset is comprised of 50 different classes of images and 11 different sessions. The sessions are differentiated by background and object orientation. The main reference for this workbook is published CVPR 2020 Challenge paper (link: https://arxiv.org/pdf/2009.09929.pdf) which covers the various winning strategies on this benchmark.
